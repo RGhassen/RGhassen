@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate <br>🌱 I’m currently learning C and (https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python]<br>💬 Ask me about MERN stack
+👯 I’m looking to collaborate <br>🌱 I’m currently learning C and Python <br>💬 Ask me about MERN stack
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gasston.officiel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gasston.officiel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raggad-ghassen-ab114b1aa) 
